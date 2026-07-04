@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Ex00_Raptop_KoreanTest.vcxproj" Id="b3949369-2c1f-490b-ba5d-121c232d4683" />
+  <Project Path="Ex000_KoreanTest2.vcxproj" />
 </Solution>
